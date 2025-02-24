@@ -1,3 +1,15 @@
+Disclaimer
+==========
+
+( ˶°ㅁ°) !! **This is a fork of [exelban/stats](https://github.com/exelban/stats)**
+
+The aim of this project is to submit evolutions.
+This is not the official repository of the app.
+You should not submit bug reports, issues or pull requests to this fork.
+
+Last constributions from here:
+- Broken line breaks and missing whitespace in french wording ([#2414](https://github.com/exelban/stats/issues/2414) [#2415](https://github.com/exelban/stats/pull/2415))
+
 # Stats
 
 <a href="https://github.com/exelban/stats/releases"><p align="center"><img src="https://github.com/exelban/stats/raw/master/Stats/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_256x256.png" width="120"></p></a>
